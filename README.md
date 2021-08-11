@@ -38,11 +38,17 @@ Sprites are many pixels grouped together that can be drawn to the screen as a wh
 Can be max of 8 bits wide(X-Axis) and 15 bits in lenght(Y-Axis)
 Sprites get XOR'ed onto the dispaly
 
+![sprites](https://user-images.githubusercontent.com/54055822/129038187-1baa8314-74e5-417f-8f16-30704a5ee785.png)
+
+
 Keyboard
 --------
 Chip8 keyboard has 16 keys from 0-F
 Can be represented as a 16 byte array
 True value when key is pressed, false when not
+
+![keyboard](https://user-images.githubusercontent.com/54055822/129038006-b8dc07ac-e984-4f93-b7d2-b386fa3bb60e.png)
+
 
 Instruction Set
 ---------------
