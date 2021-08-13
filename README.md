@@ -1,5 +1,5 @@
 # Chip8-Emulator
-Chip 8 Emulator using C
+Chip 8 Emulator using C - Put together using Daniel McCarthy's Udemy Course
 
 About
 -----
