@@ -3,7 +3,7 @@ Chip 8 Emulator using C - Put together using Daniel McCarthy's Udemy Course
 
 About
 -----
-Interpreter from mid 1970s
+Interpreter from mid 1970s.
 Essentially a virtual machine but really basic
 4096 bytes of memory
 
